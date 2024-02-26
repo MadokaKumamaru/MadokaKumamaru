@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madoka!</h1>
-<h3 align="center">A passionate data analyst from Japan</h3>
+<h3 align="center">An enthusiastic data analyst from Japan, based in the UK</h3>
 
 - 🌱 I’m currently learning **Excel VBA**
 
